@@ -1,0 +1,75 @@
+*{
+
+}
+
+
+
+.phone{
+	width:320px;
+	height:700px;
+	border: 8px #000 solid;
+	border-radius: 50px;
+	margin: 20px auto ;
+	background: black;
+}
+.top{
+	width:280px;
+	height: 20px;
+	border: 0px #000 solid;
+	border-radius: 10px;
+	margin: 20px auto ;
+	
+	
+
+
+
+}
+
+.listen{
+	width:120px;
+	height: 10px;
+	border: 2px #2f7d5d solid;
+	border-radius: 10px;
+	margin:5px  auto 5px 80px ;
+	display: inline-block;
+	
+}
+.camera{
+	width: 10px;
+	height: 10px;
+	border: 2px #beab5f solid;
+	border-radius: 10px;
+	margin: 5px auto;
+    display: inline-block;
+}
+.light{
+	width: 10px;
+	height: 10px;
+	border: 2px #eadede solid;
+	border-radius: 10px;
+	margin: 5px auto;
+
+	display: inline-block;
+	padding-right: 5px;
+	
+}
+.screen{
+	width:300px;
+	height: 525px;
+	border: 8px #000 solid;
+	border-radius: 20px;
+	margin: 20px auto;
+	background-image:url(20131205233548_EidKN.jpg);
+	background-position:center;
+	background-size:center;
+
+}
+.home{
+	width: 50px;
+	height: 50px;
+	border: 5px #c89191 solid;
+	border-radius: 25px;
+	margin: 20px 125px ;
+	background: 
+
+}
